@@ -1,0 +1,9 @@
+there are different data types in python.
+int: whole numbers
+float: are decimals
+str dta type (anthing within single or double quotes is a string)
+tuple: unchanging list
+list: this can change
+set: a non duplicated list
+dictionary: key value pair
+bool: True or False
